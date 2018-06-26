@@ -9,8 +9,3 @@ R shiny allows you to present your data interactively – that means your app us
     Provide or upload files, text and all sorts of data
     And much more 
 
-app: https://aroliwa.shinyapps.io/TheMiningStockScale/
-
-
-Course: 
-https://www.udemy.com/r-shiny-web-apps-data-visualization/
